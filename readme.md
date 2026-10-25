@@ -76,14 +76,14 @@ Me chamo Mirelly Rodrigues. Estou cursando Análise e Desenvolvimento de Sistema
     <td width="50%" valign="top">
       <h3 align="center">🌴 TurisRio</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,vite,tailwind,vercel" width="160" />
+        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,vercel" width="160" />
       </p>
       <p>Plataforma web desenvolvida para turismo e exploração cultural do Estado do Rio de Janeiro, com interface moderna, responsiva e focada na melhor experiência de navegação do usuário.</p>
       <p align="center">
-        <a href="https://github.com/mialytech">
+        <a href="https://github.com/mialytech/turisrio" target="_blank">
           <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <a href="#">
+        <a href="https://turisrio-7tmps2h7g-mih9.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Acessar_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </p>
