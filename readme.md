@@ -30,7 +30,7 @@ Me chamo Mirelly Rodrigues. Estou cursando Análise e Desenvolvimento de Sistema
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 **Desenvolvimento e Linguagens:**
 <p align="left">
@@ -54,7 +54,7 @@ Me chamo Mirelly Rodrigues. Estou cursando Análise e Desenvolvimento de Sistema
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 <table align="center">
   <tr>
